@@ -7,7 +7,7 @@ spring:
         predicates:
         - Path=/api/**
         filters:
-        - StripPrefix=1
+        - StripPrefix=1 #https://cloud.spring.io/spring-cloud-gateway/reference/html/#the-stripprefix-gatewayfilter-factory
         - AddRequestHeader=GoldenCustomer,true
       - id: common_route
         uri: http://localhost:8081
