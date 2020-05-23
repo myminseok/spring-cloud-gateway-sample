@@ -1,0 +1,10 @@
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/webfilters/WebFilterFactoriesLiveTest.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/customfilters/service/SpringContextTest.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/custompredicates/CustomPredicatesApplicationLiveTest.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/customfilters/gatewayapp/utils/LoggerListAppender.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/customfilters/secondservice/SpringContextTest.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/introduction/SpringContextTest.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/customfilters/secondservice/SecondServiceIntegrationTest.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/webfilters/RedisWebFilterFactoriesLiveTest.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/customfilters/service/ServiceIntegrationTest.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/test/java/com/baeldung/springcloudgateway/customfilters/gatewayapp/CustomFiltersLiveTest.java

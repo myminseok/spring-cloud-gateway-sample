@@ -1,0 +1,4 @@
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/main/java/com/baeldung/springcloudgateway/custompredicates/factories/GoldenCustomerRoutePredicateFactory.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/main/java/com/baeldung/springcloudgateway/custompredicates/service/GoldenCustomerService.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/main/java/com/baeldung/springcloudgateway/custompredicates/config/CustomPredicatesConfig.java
+/Users/minseok/_dev/springcloudgateway/tutorials/spring-cloud/spring-cloud-gateway/src/main/java/com/baeldung/springcloudgateway/custompredicates/CustomPredicatesApplication.java

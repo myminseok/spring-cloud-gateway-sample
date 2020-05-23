@@ -1,0 +1,5 @@
+com/baeldung/springcloudgateway/custompredicates/CustomPredicatesApplication.class
+com/baeldung/springcloudgateway/custompredicates/service/GoldenCustomerService.class
+com/baeldung/springcloudgateway/custompredicates/factories/GoldenCustomerRoutePredicateFactory.class
+com/baeldung/springcloudgateway/custompredicates/config/CustomPredicatesConfig.class
+com/baeldung/springcloudgateway/custompredicates/factories/GoldenCustomerRoutePredicateFactory$Config.class
